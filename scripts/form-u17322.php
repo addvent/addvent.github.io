@@ -34,10 +34,10 @@ $form = array(
 		'custom_U17334' => array(
 			'order' => 1,
 			'type' => 'string',
-			'label' => 'NAMEl',
+			'label' => 'NAME',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'NAMEl\' is required.'
+				'required' => 'Field \'NAME\' is required.'
 			)
 		),
 		'Email' => array(
